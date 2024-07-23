@@ -1,5 +1,17 @@
+*{
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
 .App {
   text-align: center;
+}
+.navBar-icon{
+  display: flex;
+  flex-direction: column;
+  align-items:end;
+  justify-content: left;
+  
 }
 
 .App-logo {
